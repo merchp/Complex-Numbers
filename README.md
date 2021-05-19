@@ -1,3 +1,3 @@
 # Complex-Numbers
 
-This an MSSA lab assisgnemt from C#.
+This excersie was done as an MSSA lab assisgnemt from our C# textbook .
